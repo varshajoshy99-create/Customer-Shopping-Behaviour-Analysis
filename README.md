@@ -79,11 +79,11 @@ Optimize Discount Strategies: Review discount policies to maintain sales growth 
 
 
 
-## 8. Skills Demonstrated
+##  Skills Demonstrated
 
 Python | Pandas | SQL | MySQL | EDA | Data Cleaning | Power BI | Data Visualization | Business Reporting
 
-## 9. Conclusion
+##  Conclusion
 
 This project demonstrates the practical application of data analytics tools to transform raw data into meaningful insights through data preparation, SQL analysis, visualization, and reporting.
 
